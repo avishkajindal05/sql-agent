@@ -1,3 +1,8 @@
-pandas
-mysql-connector-python
-gradio
+langchain
+langchain-community
+langchain-groq
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+langsmith
